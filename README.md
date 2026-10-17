@@ -17,7 +17,7 @@ Both City and Resort Hotels face high booking cancellation rates, leading to rev
 ## Dataset
 The dataset contains hotel booking records for city and resort hotels, including booking status, lead time, arrival dates, length of stay, market segment, and average daily rate.
 
-**Dataset source:** [Hotel_booking_Analysis](C:\Users\sr896\OneDrive\Documents\Hotel Booking Analysis\Data)
+**Dataset source:** [Hotel Booking Analysis](C:\Users\sr896\OneDrive\Documents\Hotel Booking Analysis\Data)
 
 ## Project Workflow
 1. Data loading and inspection
